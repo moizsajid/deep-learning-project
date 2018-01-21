@@ -1,5 +1,5 @@
 # Face Aging
-using Deep Convoljutional Generative Adversarial Networks
+using Deep Convolutional Generative Adversarial Networks
 
 ### Datasets
 - CelebA http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
